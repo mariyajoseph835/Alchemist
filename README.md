@@ -52,7 +52,7 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](4.jpg)
+![Workflow](flowchart.jpg)
 *Add caption explaining your workflow*
 
 For Hardware:
@@ -79,8 +79,8 @@ For Hardware:
 
 ## Team Contributions
 - [mariya joseph]: [website and designing idea]
-- [sharlet joseph]: [developing]
-- [keerthana a]: [documentation]
+- .[sharlet joseph]: [developing]
+- .[keerthana a]: [documentation]
 
 ---
 Made with ❤️ at TinkerHub
