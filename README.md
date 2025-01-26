@@ -6,12 +6,12 @@
 
 
 ### Team Members
-- Member 1: [SHARLET JOSEPH] - [SCMS COCHIN SCHOOL OF BUSINESS,MUTTOM]
-- Member 2: [MARIYA JOSEPH] - [SCMS COCHIN SCHOOL OF BUSINESS,MUTTOM]
-- Member 3: [KEERTHANA A] - [SCMS COCHIN SCHOOL OF BUSINESS,MUTTOM]
+- Member 1: [Name] - [College]
+- Member 2: [Name] - [College]
+- Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://mariyajoseph835.github.io/Alchemist/]
 
 ### Project Description
 [The Product and Expiry Reminder web application helps users manage their inventory by allowing them to set reminders for product quantities and expiry dates. It notifies users 2 days before products run low or items are about to expire, making it ideal for personal or small business use.]
@@ -25,14 +25,18 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used ARE HTML, CSS, JAVASCRIPT]
+- [Languages used]
+- [Frameworks used]
+- [Libraries used]
+- [Tools used]
 
-
-- [Tools used are , visual studio code, git and github, web browser]
-
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
 
 ### Implementation
-For Software: html, css
+For Software:
 # Installation
 [commands]
 
@@ -52,8 +56,31 @@ For Software:
 ![Screenshot3](3.jpg)
 *Add caption explaining what this shows*
 
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
+
+For Hardware:
+
+# Schematic & Circuit
+![Circuit](Add your circuit diagram here)
+*Add caption explaining connections*
+
+![Schematic](Add your schematic diagram here)
+*Add caption explaining the schematic*
+
 # Build Photos
-![team](ussss.jpg)
+![Team](Add photo of your team here)
+
+
+![Components](Add photo of your components here)
+*List out all components shown*
+
+![Build](Add photos of build process here)
+*Explain the build steps*
+
+![Final](Add photo of final product here)
+*Explain the final build*
 
 ### Project Demo
 # Video
@@ -64,9 +91,9 @@ For Software:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Mariya Joseph]: [APP AND DESIGNING IDEA]
-- [KEERTHANA A]: [DOCUMENTATION]
-- [SHARLET JOSEPH]: [DEVELOPING]
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
