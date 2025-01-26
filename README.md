@@ -84,7 +84,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1tgLvaEJmGxXVEpa46-253SyoaSY6IoRm/view?usp=drivesdk]
 *Explain what the video demonstrates*
 
 # Additional Demos
