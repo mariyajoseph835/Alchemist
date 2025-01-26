@@ -1,42 +1,37 @@
-# [Project Name] 🎯
+# [WARNCART] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [ALCHEMIST]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [SHARLET JOSEPH] - [SCMS COCHIN SCHOOL OF BUSINESS,MUTTOM]
+- Member 2: [KEERTHANA A] - [SCMS COCHIN SCHOOL OF BUSINESS,MUTTOM]
+- Member 3: [MARIYA JOSEPH] - [SCMS COCHIN SCHOOL OF BUSINESS,MUTTOM]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://mariyajoseph835.github.io/Alchemist/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The Product and Expiry Reminder web application helps users manage their inventory by allowing them to set reminders for product quantities and expiry dates. It notifies users 2 days before products run low or items are about to expire, making it ideal for personal or small business use.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[The app solves the tedious problem of manually tracking product inventory and expiry dates by providing automated reminders. It ensures users are notified in advance to avoid running out of stock or using expired items, saving time and reducing waste.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[This problem is solved by allowing users to input product details, such as quantity, reminder days, and expiry dates, into the app. The system then automatically sends notifications 2 days before products run low or reach their expiry date, helping users stay organized, avoid expired items, and maintain inventory without manual tracking.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used are HTML, CSS, JAVASCRIPT]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Tools used ARE  visual studio code, git and github, web browser]
+
 
 ### Implementation
-For Software:
+For Software:HTML, CSS
 # Installation
 [commands]
 
@@ -57,7 +52,7 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![Workflow](4.jpg)
 *Add caption explaining your workflow*
 
 For Hardware:
@@ -73,14 +68,6 @@ For Hardware:
 ![Team](ussss.jpg)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -91,9 +78,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [mariya joseph]: [website and designing idea]
+- [sharlet joseph]: [developing]
+- [keerthana a]: [documentation]
 
 ---
 Made with ❤️ at TinkerHub
