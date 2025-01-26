@@ -50,10 +50,10 @@ For Software:
 ![Screenshot1](1.jpg)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](2.jpg)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](3.jpg)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -70,7 +70,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![Team](ussss.jpg)
 
 
 ![Components](Add photo of your components here)
