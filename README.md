@@ -57,7 +57,7 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![Workflow](workflow.jpg)
 *Add caption explaining your workflow*
 
 For Hardware:
@@ -70,7 +70,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![Team](ussss.jpg)
 
 
 ![Components](Add photo of your components here)
@@ -91,9 +91,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [MARIYA JOSEPH]: [websibe and designing idea]
+- .[sharlet joseph]: [developing]
+- .[keerthana a]: [documentation]
 
 ---
 Made with ❤️ at TinkerHub
